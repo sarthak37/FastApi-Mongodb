@@ -1,7 +1,10 @@
 
-Deployed-Link(Swagger UI) - https://fastapi-mongodb-p9f8.onrender.com/docs
+*Deployed-Link(Swagger UI) - https://fastapi-mongodb-p9f8.onrender.com/docs
 
 (may take upto 1 minute to load as it is free hosting)
+
+
+*Please click on Output screenshots to see responses on postman as well as swagger ui
 
 
 *How to run locally-
