@@ -1,5 +1,7 @@
 
-Deployed-Link(Swagger UI) - https://fastapi-mongodb-p9f8.onrender.com/docs(may take upto 1 minute to load as it is free hosting)
+Deployed-Link(Swagger UI) - https://fastapi-mongodb-p9f8.onrender.com/docs
+
+(may take upto 1 minute to load as it is free hosting)
 
 
 *How to run locally-
